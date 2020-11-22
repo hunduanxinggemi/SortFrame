@@ -1,0 +1,6 @@
+framework module SortFrame {
+  umbrella header "SortFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

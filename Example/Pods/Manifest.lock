@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - SortFrame (0.1.0)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - Expecta
+  - SortFrame (from `../`)
+  - Specta
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  SortFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  SortFrame: a02ca868026182a30fb1f9298dbbb68174b7a800
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: baf4515fe8b22463ea1be08d121fcbe324209a7e
+
+COCOAPODS: 1.10.0

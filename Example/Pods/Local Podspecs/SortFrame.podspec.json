@@ -1,0 +1,22 @@
+{
+  "name": "SortFrame",
+  "version": "0.1.0",
+  "summary": "A short description of SortFrame.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hunduanxinggemi/SortFrame",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hunduanxinggemi": "1518591503@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hunduanxinggemi/SortFrame.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SortFrame/Classes/**/*"
+}

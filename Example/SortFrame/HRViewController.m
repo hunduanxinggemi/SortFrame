@@ -7,6 +7,9 @@
 //
 
 #import "HRViewController.h"
+#import <SortModel.h>
+#import <SonModel.h>
+
 
 @interface HRViewController ()
 
@@ -17,6 +20,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    SortModel * model = [[SortModel alloc] init];
+    [model sortByMPInarray:@[@"1"]];
+    
+    SonModel * sonModel = [[SonModel alloc] init];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
